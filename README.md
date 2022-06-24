@@ -8,3 +8,5 @@
 - Use of `-` to substract
 - Use of `/` to divide
 - Use of `*` to multiply
+
+**Project is deployed [HERE](https://tommydebisi.github.io/JS-calculator1/)**
